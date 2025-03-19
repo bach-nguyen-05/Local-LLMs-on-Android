@@ -51,7 +51,7 @@ wget https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-1.5B-i1-GGUF/r
 mv https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-1.5B-i1-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B.i1-IQ1_M.gguf?download=true qwen.gguf
 ```
 11.	Come back to build folder
-a.	Since you are in 3B folder, type
+a.	Since you are in models/ folder, type
 ```bash
 cd ..
 ```
